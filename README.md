@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> A Case study to filter the applicants on the basis of not paying the laon or defaulting the loan.
+> A Case study to filter which applicants have the maximum probability of defaulting the loan while repay.
 
 ## Table of Contents
 * [General Info](#general-information)
