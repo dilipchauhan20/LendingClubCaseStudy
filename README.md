@@ -46,25 +46,26 @@
     - "Loan Verification“: Customers whose loan application is 'not verified'
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Python
+- Google Colab
+- Jupyter Notebook
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scipy
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- https://www.youtube.com/watch?v=fiQhxn9RjEQ
+- https://www.youtube.com/playlist?list=PLupD_xFct8mFDeCqoUAWZpUddeqmT28_L
+- https://pandas.pydata.org/docs/user_guide/basics.html
+- https://matplotlib.org/stable/tutorials/pyplot.html#sphx-glr-tutorials-pyplot-py
+- https://seaborn.pydata.org/tutorial/introduction.html
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@dilipchauhan20] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
