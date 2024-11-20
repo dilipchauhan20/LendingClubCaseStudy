@@ -9,8 +9,8 @@
 
 ## General Information
 - The company is trying to reach a decision whether to give a loan to a certain individual or not, thus reducing two types of risks: 
-- If the person is likely to repay the loan, then not approving the loan will result in loss of business 
-- If the person is not likely to repay the loan, then approving the loan will result in financial loss 
+    - If the person is likely to repay the loan, then not approving the loan will result in loss of business 
+    - If the person is not likely to repay the loan, then approving the loan will result in financial loss 
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
