@@ -34,16 +34,16 @@
 
 ## Conclusion & Recommendations
 - Drivers for "Loan Default" and "not to Default"
-- Who is NOT likely to Default?
-    - Customers who 'FULLY_PAID' their loans are less likely to Default.
-
-- Who is likely to Default?
-    - "Grade": Customers with assigned Loan in "Grade B".
-    - "Loan Amount": Customers whose loan fall in range of 6k-8k.
-    - "House Ownership": Customers staying in Rented or Mortgaged home.
-    - "Loan Term Period": Customers with average 3 years of loan term.
-    - "Years of Experience": Customers with work experience of 10+ years.
-    - "Loan Verification“: Customers whose loan application is 'not verified'
+    - Who is NOT likely to Default?
+        - Customers who 'FULLY_PAID' their loans are less likely to Default.
+    
+    - Who is likely to Default?
+        - "Grade": Customers with assigned Loan in "Grade B".
+        - "Loan Amount": Customers whose loan fall in range of 6k-8k.
+        - "House Ownership": Customers staying in Rented or Mortgaged home.
+        - "Loan Term Period": Customers with average 3 years of loan term.
+        - "Years of Experience": Customers with work experience of 10+ years.
+        - "Loan Verification“: Customers whose loan application is 'not verified'
 
 ## Technologies Used
 - Python
