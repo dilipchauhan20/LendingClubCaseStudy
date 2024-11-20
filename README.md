@@ -1,10 +1,5 @@
 # Lending Club Case Study
-> A Consumer finance company is into various types of
-loans to urban customers.
-
-• The company is trying to reach a decision whether to give
-a loan to a certain individual or not,
-
+> A Case study to filter the applicants on the basis of not paying the laon or defaulting the loan.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -12,13 +7,11 @@ a loan to a certain individual or not,
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+• The company is trying to reach a decision whether to give a loan to a certain individual or not, thus reducing two types of risks: 
+  • If the person is likely to repay the loan, then not approving the loan will result in loss of business 
+  • If the person is not likely to repay the loan, then approving the loan will result in financial loss 
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
