@@ -12,14 +12,16 @@
     - If the person is likely to repay the loan, then not approving the loan will result in loss of business 
     - If the person is not likely to repay the loan, then approving the loan will result in financial loss 
 
+## Conclusion & Recommendations
+- Scenarios where customers defaulted:
+        - Customers with 'Mortgages home' and higher annual income in year 2008 - defaulted the most.
+        - Customers with 'Mortgages home' and higher annual income in year 2011 - defaulted the most.
+        - Customers with 'Other home' with higher Loan Amount in year 2011 - defaulted the most.
+        - For customers with 'Mortgages home'; Funded Invoiced Amount, Number of Instalments, Rate of Interest, Loan Amount, Revolving Line Utilization Rate rapidly increased every year. Thus increasing the chances of rate of 'Defaults'
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Scenarios where loan was fully paid
+• In year 2007 customers with 'Highest Income' FULLY_PAID the loan in 'renewable energy' sector.
+• In year 2009 customers with 'Highest Income' FULLY_PAID the loan in 'renewable energy' sector.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
