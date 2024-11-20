@@ -12,19 +12,38 @@
     - If the person is likely to repay the loan, then not approving the loan will result in loss of business 
     - If the person is not likely to repay the loan, then approving the loan will result in financial loss 
 
-## Conclusion & Recommendations
+## Observations
 - Scenarios where customers defaulted:
     - Customers with 'Mortgages home' and higher annual income in year 2008 - defaulted the most.
     - Customers with 'Mortgages home' and higher annual income in year 2011 - defaulted the most.
     - Customers with 'Other home' with higher Loan Amount in year 2011 - defaulted the most.
     - For customers with 'Mortgages home'; Funded Invoiced Amount, Number of Instalments, Rate of Interest, Loan Amount, Revolving Line Utilization Rate rapidly increased every year. Thus increasing the chances of rate of 'Defaults'
 
-Scenarios where loan was fully paid
-• In year 2007 customers with 'Highest Income' FULLY_PAID the loan in 'renewable energy' sector.
-• In year 2009 customers with 'Highest Income' FULLY_PAID the loan in 'renewable energy' sector.
+- Scenarios where loan was fully paid
+    - In year 2007 customers with 'Highest Income' FULLY_PAID the loan in 'renewable energy' sector.
+    - In year 2009 customers with 'Highest Income' FULLY_PAID the loan in 'renewable energy' sector.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Customers with highest income lived in all types of homes.
+    - Customer's Annual Income is highest where they have a 'mortgaged home' and loan application was verified.
+    - Customer's Annual Income is highest where they have a 'Other home' and loan application was Source verified.
+    - Customer's Annual Income is highest where they have a 'Own home' and loan application was verified.
+    - Customer's Annual Income is highest where they have a 'Rented home' and loan application was verified.
+ 
 
+
+
+## Conclusion & Recommendations
+- Drivers for "Loan Default" and "not to Default"
+- Who is NOT likely to Default?
+    - Customers who 'FULLY_PAID' their loans are less likely to Default.
+
+- Who is likely to Default?
+    - "Grade": Customers with assigned Loan in "Grade B".
+    - "Loan Amount": Customers whose loan fall in range of 6k-8k.
+    - "House Ownership": Customers staying in Rented or Mortgaged home.
+    - "Loan Term Period": Customers with average 3 years of loan term.
+    - "Years of Experience": Customers with work experience of 10+ years.
+    - "Loan Verification“: Customers whose loan application is 'not verified'
 
 ## Technologies Used
 - library - version 1.0
